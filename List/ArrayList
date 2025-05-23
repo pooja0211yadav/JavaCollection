@@ -45,3 +45,13 @@ class Main {
         System.out.println("List after updation of value : "+al);
     }
 }
+
+
+
+Output
+Orignal List : [Geeks, Geeks]
+After Adding element at index 1 : [Geeks, For, Geeks]
+Element removed from index 0 : [For, Geeks]
+Element Geeks removed : [For]
+List after updation of value : [GFG]
+
